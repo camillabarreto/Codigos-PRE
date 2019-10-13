@@ -7,4 +7,4 @@ function N = rand_pascal(k,p)
             N = 1 + rand_pascal(k,p); 
         end
     end
-return
+    return
